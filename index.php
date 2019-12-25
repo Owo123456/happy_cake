@@ -1,4 +1,4 @@
-﻿
+
 <?php
 session_start();
 // unset($_SESSION['member']);
@@ -25,7 +25,7 @@ $news = $query3->fetchall(PDO::FETCH_ASSOC);
     <meta name="keywords" content="">
 
     <title>
-        Cake House : 帶給你最天然健康的幸福滋味~
+        Cake House : 帶給你最天然健康的幸福滋味
     </title>
 
     <meta name="keywords" content="">
